@@ -1,0 +1,24 @@
+{
+    "name": "Yuan-ti Pureblood",
+    "nameGroup": "yuantiPureblood",
+    "scoreIncrease": {
+        "Str": 0,
+        "Dex": 0,
+        "Con": 0,
+        "Int": 1,
+        "Wis": 0,
+        "Chr": 2
+    },
+    "body": {
+        "baseHeight": "4'8\"",
+        "heightMod": [
+            2,
+            10
+        ],
+        "baseWeight": 110,
+        "weightMod": [
+            2,
+            4
+        ]
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "name": "Half Orc",
+    "nameGroup": "halfOrc",
+    "scoreIncrease": {
+        "Str": 2,
+        "Dex": 0,
+        "Con": 1,
+        "Int": 0,
+        "Wis": 0,
+        "Chr": 0
+    },
+    "body": {
+        "baseHeight": "4'10\"",
+        "heightMod": [
+            2,
+            10
+        ],
+        "baseWeight": 140,
+        "weightMod": [
+            2,
+            6
+        ]
+    }
+}

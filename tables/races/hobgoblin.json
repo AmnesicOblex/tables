@@ -1,0 +1,24 @@
+{
+    "scoreIncrease": {
+        "Str": 0,
+        "Dex": 0,
+        "Con": 2,
+        "Int": 1,
+        "Wis": 0,
+        "Chr": 0
+    },
+    "nameGroup": "halfOrc",
+    "name": "Hobgoblin",
+    "body": {
+        "baseHeight": "4'8\"",
+        "heightMod": [
+            2,
+            10
+        ],
+        "baseWeight": 110,
+        "weightMod": [
+            2,
+            4
+        ]
+    }
+}

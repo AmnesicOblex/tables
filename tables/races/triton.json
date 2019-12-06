@@ -1,0 +1,24 @@
+{
+    "name": "Triton",
+    "nameGroup": "triton",
+    "scoreIncrease": {
+        "Str": 1,
+        "Dex": 0,
+        "Con": 1,
+        "Int": 0,
+        "Wis": 0,
+        "Chr": 1
+    },
+    "body": {
+        "baseHeight": "4'6\"",
+        "heightMod": [
+            2,
+            10
+        ],
+        "baseWeight": 90,
+        "weightMod": [
+            2,
+            4
+        ]
+    }
+}

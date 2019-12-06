@@ -1,0 +1,24 @@
+{
+    "name": "Bugbear",
+    "nameGroup": "halfOrc",
+    "scoreIncrease": {
+        "Str": 2,
+        "Dex": 1,
+        "Con": 0,
+        "Int": 0,
+        "Wis": 0,
+        "Chr": 0
+    },
+    "body": {
+        "baseHeight": "6'0\"",
+        "heightMod": [
+            2,
+            12
+        ],
+        "baseWeight": 200,
+        "weightMod": [
+            2,
+            6
+        ]
+    }
+}

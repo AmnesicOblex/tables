@@ -1,0 +1,24 @@
+{
+    "name": "Kenku",
+    "nameGroup": "kenku",
+    "scoreIncrease": {
+        "Str": 0,
+        "Dex": 2,
+        "Con": 0,
+        "Int": 0,
+        "Wis": 1,
+        "Chr": 0
+    },
+    "body": {
+        "baseHeight": "4'4\"",
+        "heightMod": [
+            2,
+            8
+        ],
+        "baseWeight": 50,
+        "weightMod": [
+            1,
+            6
+        ]
+    }
+}

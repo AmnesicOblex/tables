@@ -1,0 +1,24 @@
+{
+    "name": "Wood Elf",
+    "nameGroup": "elf",
+    "scoreIncrease": {
+        "Str": 0,
+        "Dex": 2,
+        "Con": 0,
+        "Int": 0,
+        "Wis": 1,
+        "Chr": 0
+    },
+    "body": {
+        "baseHeight": "4'6\"",
+        "heightMod": [
+            2,
+            10
+        ],
+        "baseWeight": 100,
+        "weightMod": [
+            1,
+            4
+        ]
+    }
+}

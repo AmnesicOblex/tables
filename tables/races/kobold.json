@@ -1,0 +1,25 @@
+{
+    "name": "Kobold",
+    "nameGroup": "lizardfolk",
+    "scoreIncrease": {
+        "Str": -2,
+        "Dex": 2,
+        "Con": 0,
+        "Int": 0,
+        "Wis": 0,
+        "Chr": 0
+    },
+
+    "body": {
+        "baseHeight": "2'1\"",
+        "heightMod": [
+            2,
+            4
+        ],
+        "baseWeight": 25,
+        "weightMod": [
+            1,
+            1
+        ]
+    }
+}

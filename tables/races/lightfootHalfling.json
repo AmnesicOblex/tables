@@ -1,0 +1,24 @@
+{
+    "name": "Lightfoot Halfling",
+    "nameGroup": "halfling",
+    "scoreIncrease": {
+        "Str": 0,
+        "Dex": 2,
+        "Con": 0,
+        "Int": 0,
+        "Wis": 0,
+        "Chr": 1
+    },
+    "body": {
+        "baseHeight": "2'7\"",
+        "heightMod": [
+            2,
+            4
+        ],
+        "baseWeight": 35,
+        "weightMod": [
+            1,
+            1
+        ]
+    }
+}

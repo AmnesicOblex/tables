@@ -1,0 +1,24 @@
+{
+    "scoreIncrease": {
+        "Str": 0,
+        "Dex": 2,
+        "Con": 0,
+        "Int": 0,
+        "Wis": 0,
+        "Chr": 1
+    },
+    "nameGroup": "tabaxi",
+    "name": "Tabaxi",
+    "body": {
+        "baseHeight": "4'10\"",
+        "heightMod": [
+            2,
+            10
+        ],
+        "baseWeight": 90,
+        "weightMod": [
+            2,
+            4
+        ]
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "name": "Rock Gnome",
+    "nameGroup": "gnome",
+    "scoreIncrease": {
+        "Str": 0,
+        "Dex": 0,
+        "Con": 1,
+        "Int": 2,
+        "Wis": 0,
+        "Chr": 0
+    },
+    "body": {
+        "baseHeight": "2'11\"",
+        "heightMod": [
+            2,
+            4
+        ],
+        "baseWeight": 35,
+        "weightMod": [
+            1,
+            1
+        ]
+    }
+}

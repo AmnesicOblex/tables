@@ -1,0 +1,25 @@
+{
+  "name": "@amnesic0blex/tables",
+  "version": "1.0.0",
+  "description": "Various tables of information associated with dnd 5e.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AmnesicOblex/tables.git"
+  },
+  "keywords": [
+    "dnd",
+    "tables",
+    "random",
+    "generation"
+  ],
+  "author": "AmnesicOblex",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AmnesicOblex/tables/issues"
+  },
+  "homepage": "https://github.com/AmnesicOblex/tables#readme"
+}

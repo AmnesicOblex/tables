@@ -1,0 +1,17 @@
+{
+    "scoreIncrease": null,
+    "nameGroup": "halfElf",
+    "name": "Half Elf",
+    "body": {
+        "baseHeight": "4'9\"",
+        "heightMod": [
+            2,
+            8
+        ],
+        "baseWeight": 110,
+        "weightMod": [
+            2,
+            4
+        ]
+    }
+}

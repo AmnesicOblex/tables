@@ -1,0 +1,24 @@
+{
+    "name": "Mountain Dwarf",
+    "nameGroup": "dwarf",
+    "scoreIncrease": {
+        "Str": 2,
+        "Dex": 0,
+        "Con": 2,
+        "Int": 0,
+        "Wis": 0,
+        "Chr": 0
+    },
+    "body": {
+        "baseHeight": "4'0\"",
+        "heightMod": [
+            2,
+            4
+        ],
+        "baseWeight": 130,
+        "weightMod": [
+            2,
+            6
+        ]
+    }
+}

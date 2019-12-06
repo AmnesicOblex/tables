@@ -1,0 +1,24 @@
+{
+    "name": "Hill Dwarf",
+    "nameGroup": "dwarf",
+    "scoreIncrease": {
+        "Str": 0,
+        "Dex": 0,
+        "Con": 2,
+        "Int": 0,
+        "Wis": 1,
+        "Chr": 0
+    },
+    "body": {
+        "baseHeight": "3'8\"",
+        "heightMod": [
+            2,
+            4
+        ],
+        "baseWeight": 115,
+        "weightMod": [
+            2,
+            6
+        ]
+    }
+}

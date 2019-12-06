@@ -1,0 +1,24 @@
+{
+    "name": "Goliath",
+    "nameGroup": "goliath",
+    "scoreIncrease": {
+        "Str": 2,
+        "Dex": 0,
+        "Con": 1,
+        "Int": 0,
+        "Wis": 0,
+        "Chr": 0
+    },
+    "body": {
+        "baseHeight": "6'2\"",
+        "heightMod": [
+            2,
+            10
+        ],
+        "baseWeight": 200,
+        "weightMod": [
+            2,
+            6
+        ]
+    }
+}
