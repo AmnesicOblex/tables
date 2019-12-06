@@ -6,7 +6,9 @@ var races = {}
 var raceDir = Path.join(__dirname, 'tables', 'races')
 var files = fs.readdirSync(raceDir)
 files.forEach((file) => {
-    races[file] = JSON.parse(fs.readFileSync(Path.join(raceDir, file), 'utf8'))
+    var regex = /(.*?).json/
+    var match = file.match(regex)[1]
+    races[match] = JSON.parse(fs.readFileSync(Path.join(raceDir, file), 'utf8'))
 })
 
 // Races concat function module export
