@@ -1,7 +1,14 @@
 {
-    "scoreIncrease": null,
     "nameGroup": "halfElf",
     "name": "Half Elf",
+    "scoreIncrease": {
+        "Str": 0,
+        "Dex": 0,
+        "Con": 0,
+        "Int": 0,
+        "Wis": 0,
+        "Chr": 2
+    },
     "body": {
         "baseHeight": "4'9\"",
         "heightMod": [
