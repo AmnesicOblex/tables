@@ -1,6 +1,6 @@
 {
   "name": "@amnesic0blex/tables",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Various tables of information associated with dnd 5e.",
   "main": "index.js",
   "scripts": {
