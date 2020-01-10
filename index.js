@@ -14,7 +14,7 @@ files.forEach((file) => {
 // Races concat function module export
 
 function createRaceJSON (path) {
-    fs.writeFile(path, races, () => {
+    fs.writeFile(path, JSON.stringify(races, null, 4), () => {
         console.log(`Race JSON created or updated at ${path}`)
     })
 }
